@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Esto es una etiqueta h1</h1>
+        <p>Es una prueba para el ejercicio 5</p>
     </body>
 </html>
