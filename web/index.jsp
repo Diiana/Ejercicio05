@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Esto es un título</h1>
-        <p>Prueba del ejercicio 05</p>
+        <h1>Hello World!</h1>
     </body>
 </html>
